@@ -168,7 +168,7 @@
     <Compile Include="DataObjects\ChatMessage.cs" />
     <Compile Include="DataObjects\TodoItem.cs" />
     <Compile Include="Models\uwpstoriesContext.cs" />
-    <Compile Include="SignalR\ChatHub.cs" />
+    <Compile Include="Hubs\ChatHub.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
